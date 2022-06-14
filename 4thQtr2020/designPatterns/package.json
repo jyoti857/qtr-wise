@@ -1,0 +1,19 @@
+{
+  "name": "designPatterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/ObservablePattern/index.js",
+  "scripts": {
+    "start": "tsc && node dist/ObservablePattern/index.js",
+    "clean": "rm -rf dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^14.14.7",
+    "tslint": "^5.12.1",
+    "typescript": "^4.2.0-dev.20201114"
+  }
+}

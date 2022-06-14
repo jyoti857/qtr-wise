@@ -1,0 +1,155 @@
+{
+  "success": true,
+  "data": [
+      {
+          "id": "064CE1F5-57A6-EB11-85AA-000D3A1253CD",
+          "createdAt": "2021-04-21T06:23:49.260Z",
+          "updatedAt": "2021-04-21T06:23:49.260Z",
+          "updatedBy": "1784A1B3-469D-EB11-85AA-000D3A1253CD",
+          "status": "ACTV",
+          "externalId": null,
+          "externalHcpId": "0014C00000V7tl6QAB",
+          "subscribed": true,
+          "source": "CHUB",
+          "startDate": "2021-04-26T06:23:49.260Z",
+          "endDate": null,
+          "hcpId": "CFACEA73-FDA3-EB11-85AA-000D3A1253CD",
+          "preferenceId": "8E4C9600-F096-EB11-85AA-000D3A1253CD",
+          "preference": {
+              "status": "ACTV",
+              "name": "ADC Therapeutics Corporate Email and News",
+              "shortName": "TCEN",
+              "description": "Corporate",
+              "type": "UNBR"
+          },
+          "hcp": {
+              "email": "jyotiranjans@cnxsi.com"
+          }
+      },
+      {
+          "id": "074CE1F5-57A6-EB11-85AA-000D3A1253CD",
+          "createdAt": "2021-04-21T06:23:49.260Z",
+          "updatedAt": "2021-04-21T06:23:49.260Z",
+          "updatedBy": "1784A1B3-469D-EB11-85AA-000D3A1253CD",
+          "status": "ACTV",
+          "externalId": null,
+          "externalHcpId": "0014C00000V7tl6QAB",
+          "subscribed": false,
+          "source": "CHUB",
+          "startDate": "2021-04-26T06:23:49.260Z",
+          "endDate": null,
+          "hcpId": "CFACEA73-FDA3-EB11-85AA-000D3A1253CD",
+          "preferenceId": "8F4C9600-F096-EB11-85AA-000D3A1253CD",
+          "preference": {
+              "status": "ACTV",
+              "name": "Communications from Sales and Marketing",
+              "shortName": "EHTS",
+              "description": "HTS",
+              "type": "BRAN"
+          },
+          "hcp": {
+              "email": "jyotiranjans@cnxsi.com"
+          }
+      },
+      {
+          "id": "8CDD4136-04AC-EB11-85AA-000D3A1253CD",
+          "createdAt": "2021-04-28T11:39:26.503Z",
+          "updatedAt": "2021-04-28T11:39:26.503Z",
+          "updatedBy": "1784A1B3-469D-EB11-85AA-000D3A1253CD",
+          "status": "ACTV",
+          "externalId": null,
+          "externalHcpId": null,
+          "subscribed": true,
+          "source": "CHUB",
+          "startDate": "2021-05-03T11:39:26.503Z",
+          "endDate": null,
+          "hcpId": "8BDD4136-04AC-EB11-85AA-000D3A1253CD",
+          "preferenceId": "8E4C9600-F096-EB11-85AA-000D3A1253CD",
+          "preference": {
+              "status": "ACTV",
+              "name": "ADC Therapeutics Corporate Email and News",
+              "shortName": "TCEN",
+              "description": "Corporate",
+              "type": "UNBR"
+          },
+          "hcp": {
+              "email": "rajchopra98989898@gmail.com"
+          }
+      },
+      {
+          "id": "8DDD4136-04AC-EB11-85AA-000D3A1253CD",
+          "createdAt": "2021-04-28T11:39:26.503Z",
+          "updatedAt": "2021-04-28T11:39:26.503Z",
+          "updatedBy": "1784A1B3-469D-EB11-85AA-000D3A1253CD",
+          "status": "ACTV",
+          "externalId": null,
+          "externalHcpId": null,
+          "subscribed": false,
+          "source": "CHUB",
+          "startDate": "2021-05-03T11:39:26.503Z",
+          "endDate": null,
+          "hcpId": "8BDD4136-04AC-EB11-85AA-000D3A1253CD",
+          "preferenceId": "8F4C9600-F096-EB11-85AA-000D3A1253CD",
+          "preference": {
+              "status": "ACTV",
+              "name": "Communications from Sales and Marketing",
+              "shortName": "EHTS",
+              "description": "HTS",
+              "type": "BRAN"
+          },
+          "hcp": {
+              "email": "rajchopra98989898@gmail.com"
+          }
+      },
+      {
+          "id": "7659445A-5BAD-EB11-A7AD-000D3A12CF60",
+          "createdAt": "2021-04-30T04:35:44.310Z",
+          "updatedAt": "2021-04-30T04:35:44.310Z",
+          "updatedBy": "1784A1B3-469D-EB11-85AA-000D3A1253CD",
+          "status": "ACTV",
+          "externalId": null,
+          "externalHcpId": "",
+          "subscribed": true,
+          "source": "SFMC",
+          "startDate": "2021-05-05T04:35:44.310Z",
+          "endDate": null,
+          "hcpId": "FB63EC58-00AC-EB11-85AA-000D3A1253CD",
+          "preferenceId": "8E4C9600-F096-EB11-85AA-000D3A1253CD",
+          "preference": {
+              "status": "ACTV",
+              "name": "ADC Therapeutics Corporate Email and News",
+              "shortName": "TCEN",
+              "description": "Corporate",
+              "type": "UNBR"
+          },
+          "hcp": {
+              "email": "yashasv@cnxsi.com"
+          }
+      },
+      {
+          "id": "7759445A-5BAD-EB11-A7AD-000D3A12CF60",
+          "createdAt": "2021-04-30T04:35:44.310Z",
+          "updatedAt": "2021-04-30T04:35:44.310Z",
+          "updatedBy": "1784A1B3-469D-EB11-85AA-000D3A1253CD",
+          "status": "ACTV",
+          "externalId": null,
+          "externalHcpId": "",
+          "subscribed": true,
+          "source": "SFMC",
+          "startDate": "2021-05-05T04:35:44.310Z",
+          "endDate": null,
+          "hcpId": "FB63EC58-00AC-EB11-85AA-000D3A1253CD",
+          "preferenceId": "8F4C9600-F096-EB11-85AA-000D3A1253CD",
+          "preference": {
+              "status": "ACTV",
+              "name": "Communications from Sales and Marketing",
+              "shortName": "EHTS",
+              "description": "HTS",
+              "type": "BRAN"
+          },
+          "hcp": {
+              "email": "yashasv@cnxsi.com"
+          }
+      }
+  ]
+}
